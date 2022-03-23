@@ -1,0 +1,56 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-align: center;
+}
+body{
+	color: black;
+	background-color: skyblue;
+	text-align: center;
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+	line-height: 1.8;
+}
+#container{
+	color: black;
+}
+.my-form{
+	display: block;
+	text-align: center;
+}
+.my-form label{
+	display: block;
+	text-align: center;
+}
+.my-form input[type="text"]{
+	padding: 10px 10px;
+	width: 30%;
+	text-align: center;
+}
+#main-footer{
+	background: black;
+	color: white;
+	text-align: center;
+	padding: 20px;
+	margin-top: 10px;
+}
+.button{background-color: black;
+	color: white;
+	display: inline-block;
+	padding: 10px 10px;
+	width: 30%;
+	border: none;
+}
+.button:hover{
+	background-color: red;
+	color: white;
+}
+a{
+	text-decoration: none;
+	color: blue;
+
+}
+a:hover{
+	color: red;
+}
